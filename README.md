@@ -1,2 +1,2 @@
 # Gaming_Hub
-This contains my mini project. Languages used are C and C++.
+The project "Gaming Hub" includes 3 games- Rock Paper Scissors ,Tic Tac Toe and Hungry Snake. Languages used are C and C++.
